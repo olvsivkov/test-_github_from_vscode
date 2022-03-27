@@ -1,3 +1,7 @@
+body {
+    background-color: #000;
+}
+
 div {
     background-color: rgb(36, 33, 33);
     color: rgb(165, 162, 157);
